@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''a function (do not create an async function, use the regular function syntax to do this)
+'''a function (do not create an async function)
 '''
 import asyncio
 
